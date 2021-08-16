@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/nayala98/19-pwa/issues"
   },
-  "homepage": "https://github.com/nayala98/19-pwa#readme"
+  "homepage": "https://github.com/nayala98/19-pwa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "mongoose": "^5.13.7"
+  }
 }
